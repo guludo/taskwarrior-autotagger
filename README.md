@@ -7,7 +7,7 @@ tasks based on their tags or projects.
 
 ## Install
 
-In order to install, simply checkout this repository somewhere in you file
+In order to install, simply checkout this repository somewhere in your file
 system and create symbolic links to the hook scripts. For example:
 
 ```bash
