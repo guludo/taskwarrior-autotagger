@@ -23,7 +23,7 @@ system.
 
 Create a configuration file named `autotagger.cfg` in your taskwarrior
 directory (usually `~/.task`). This file follows the INI format. Each target
-tag have its own section, which is named `tag.<target>`, where `<target>` a
+tag has its own section, which is named `tag.<target>`, where `<target>` is a
 placeholder for the tag that will be automatically added to the task. Such a
 section can define the following values:
 
